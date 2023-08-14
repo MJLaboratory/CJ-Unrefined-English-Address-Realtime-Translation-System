@@ -13,7 +13,7 @@ translate_client = translate.Client()
 #from kakaotrans import Translator
 #translator = Translator()
 
-import Ifwrong
+#import Ifwrong
 
 def func1(txt): 
 
