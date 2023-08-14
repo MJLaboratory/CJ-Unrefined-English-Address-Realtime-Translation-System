@@ -7,12 +7,12 @@
 #     return render_template('./index.html')
 
 from flask import Flask, request, jsonify
-import Ifright4_v22
+import Ifright4_v21
 app = Flask(__name__)
 
 def process_address(address):
     #address = Ifright.get_translated_address(address)
-    address = Ifright4_v22.get_translated_address(address)
+    address = Ifright4_v21.get_translated_address(address)
     return address
 
 @app.route('/process_requests', methods=['POST'])
