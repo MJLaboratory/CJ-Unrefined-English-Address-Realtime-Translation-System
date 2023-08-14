@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brilliant-scene-392701",
+  "private_key_id": "53df09bf12045dd7c680f7c1bab74615f39dc5ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC1ob0HhPxP9Dmz\ngb4Qzdi0wDaq/no34Ugc55tKawoH++c6ErOnk52y65DRUfH3A3/vRiyoO3LEe4S7\nThDsRB7HSIJ7YEDxbeAZAMzjouyKu1iJbd/jya5BD479NWlvGOd8IUUO8wq+XfOM\nG7zKiT12CDg5joU9XU1OfCD9nxo/AEOmM0cQiE29QCgiKwzuE8vB4Kx2Lu6KXbv6\nQzkXPsnli1iw8ZbUhyTWL7p/dNTybyxcT7jYjgeXHaV+KkvoLUvtL0dLAtuS6Dke\nYXR/tTght6oHTjQJyzYuBqCkj/gqY1EL+4kVDEtdKtijdYGsJ5kJmzBnU7ORBgQk\n/5IhKu6zAgMBAAECggEAGOETtID50rXgZX9DGqgno/KkSl3bPeZE63iqI9JvqFJQ\nBPtk0nJ86nIr/xAbdbtr/cl9+nlSKinFL6bs2IAoOyHqhZ3Up31mceZTKmc5wXMS\nGJkNTvVkQhMwgeycCZS+uJkSDY8rDJJv9uQhwxhza8SKdw/XnmU2XqbQGg1+Gdzj\nOS85k/5CP/sFldoPn+RuDdwc6GdBrsJ8WLs+ANxty0x/vLTjyg7eGQAUsrC8ITiZ\n8TAz/yaI/a9XDP7PfuYdXFIr39Dd4JixgcdI9NWESKjDdFSmXDDV8rT3VT/JSv0M\nlEWij5vWpHQMznhCAuD4stbkqNKI2+u6rpewelOKeQKBgQDk89ANcfbEgkPnWaWK\notU6/wzv4/WgCM4vcTNfKx0DvA8cb63/1fExKS6Lv2LdC2xxWj/RrhmQL43stILV\nLd+VxRAdo2JB2jxO6UlxEJh3nnscphcpkvDpq6k0MynmdcpJRZ+FvW6huWFyOtlF\nZVkHE1vSUHo+38oyyupeCOW+pwKBgQDLFtAVHGuLRt6M5k2+d4BxJ9Sn4aPRADrZ\neAx+aEi1xbktBVTM1i+9yCXknJxeOUpyaLEbK92bEsxqCrTEchvbGk3eV0Xd+ofA\ngGn60YMY6Ux2MUY/2m38chWAdLtZWO7v1vNNXcOj/CuxG/QymvZHQH1g5F5FJBWs\nRStGHge9FQKBgQCtrM2cBWE9u9squfQ7cD30HNmBeBkxJrzRfDuN67R8ysFjvsvt\nECuAMU8frzSdnTbL3bwfoMO/fnNYpa3BbKT4hZ4t/Wxhq9ynt4uAeyhNRSj6mHtl\njBO4DgGymUUljyC96FSULRipEWj8L+v1GmYoWeUDawzweO53DTovzuwIbQKBgQCM\n+2Yx8Yu6oNTnrQy1NxID+2mFrX7iHK29v7e0nMI05XB6D2Rh2iJENcgQXqOySUUk\nDQc9XIM3HqKmzo3UfX5W6Hi764vF4CATA1IO2xiN147L0cL5mrGVeMDybpaMHM+p\n0WcPAxNIKEtQZJ5t7uMebWdcNsw2ZSlicJXs0/X9TQKBgQCAF17UuAe2gRiA+N3v\n1hUTiixJzYlayN8WG2zC5aDwFTe1Ybo+DtwxHH4CdYlKHXpYspGXICjL/A5h1xUQ\nKAH9fjhqtJ+xES8BNO6FmjtEi0rB+13xIm6V1KK6JvZJjyWaKIho/Lt/sTNSMkJR\naEzhwoC0VAWmRUmlhZ4MAlarkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation@brilliant-scene-392701.iam.gserviceaccount.com",
+  "client_id": "104705200098791587939",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation%40brilliant-scene-392701.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
