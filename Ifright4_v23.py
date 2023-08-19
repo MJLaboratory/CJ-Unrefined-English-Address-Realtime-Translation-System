@@ -178,7 +178,7 @@ def get_address(addrs):
                     roadAddr = juso[0]['roadAddr'] # 목록에서 제일 위에 있는 검색 결과의 도로명 주소를 반환
             else: #'juso' 리스트가 빈 리스트라면
                 roadAddr = '답 없음'  # '답 없음'을 반환
-            print(roadAddr)
+            #print(roadAddr)
             # print(roadAddr)
             #print(response.text1)
     return roadAddr 
@@ -302,6 +302,7 @@ def extract_ro(txt):
         
 #df['로'] = df.apply(lambda x: extract_ro(x['comma_added']), axis=1)
 def get_translated_address(text):
+    print(f'입력: {text}')
     text1 = func1(text)
     text2 = extract(text1)
     text3 = romanize(text2)
@@ -323,5 +324,5 @@ def get_translated_address(text):
                 result_text = " ".join(words_without_gu)
                 text7 = find_address(translate_text(result_text))
             #text1 = Ifwrong.get_translated_address(text)
-
+    print(f'최종: {text7}')
     return text7
