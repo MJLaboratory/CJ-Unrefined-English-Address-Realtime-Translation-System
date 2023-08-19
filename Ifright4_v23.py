@@ -116,8 +116,8 @@ def translate_text_google(target: str, text: str) -> dict:
     # will return a sequence of results for each text.
     result = translate_client.translate(text, target_language=target, source_language = 'en')
 
-    print("Text: {}".format(result["input"]))
-    print("Translation: {}".format(result["translatedText"]))
+    #print("Text: {}".format(result["input"]))
+    #print("Translation: {}".format(result["translatedText"]))
     #print("Detected source language: {}".format(result["detectedSourceLanguage"]))
 
     return result
