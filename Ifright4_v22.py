@@ -5,8 +5,8 @@ from urllib.parse import urlencode, unquote
 from korean_romanizer.romanizer import Romanizer
 from urllib.parse import urlencode, unquote
 import os
-# brilliant-scene-392701-53df09bf1204.json 이 토큰 파일 임
-#os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:\Dev\cj_challenge2\\2023CJ_DaehanTongun_challenge\김민지\googleTransAPI\\brilliant-scene-392701-53df09bf1204.json'
+
+#os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '~~토큰 파일~~'
 #from google.cloud import translate_v2 as translate
 #translate_client = translate.Client()
 from kakaotrans import Translator
