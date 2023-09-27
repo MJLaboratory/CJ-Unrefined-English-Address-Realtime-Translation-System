@@ -5,7 +5,7 @@
 <img src= "/static/img/표지.png"/>
 </p>
 
-[FinalVersion.py]("/FinalVersion.py")가 가장 마지막 수정 코드입니다. 
+[FinalVersion.py](FinalVersion.py)가 가장 마지막 수정 코드입니다. 
 
 공모전에 제출한 알고리즘 설명을 담은 최종 PPT 슬라이드는 [여기](https://drive.google.com/file/d/1yMDfoaR-o2ExRp4KQ9ljt4LWfvOfhStb/view?usp=drive_link)를 클릭해주세요.  
 
