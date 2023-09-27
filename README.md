@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
-<img src= "/static/images/표지.png"/>
+<img src= "/static/img/표지.png"/>
 </p>
 
 Ifright4_v23.py가 가장 마지막 수정 코드입니다. 
